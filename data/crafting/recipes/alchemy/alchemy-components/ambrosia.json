@@ -1,0 +1,23 @@
+{
+  "name": "Ambrosia",
+  "tradeskill": "Alchemy",
+  "assembly_stat": "Alchemy",
+  "tradeskill_group": "Alchemy Components",
+  "difficulty": ,
+  "craft_time": ,
+  "description": "",
+  "requires": [{
+    "id": "apple",
+    "quantity": 2,
+    "demand": "required"
+  }, {
+    "id": "wood",
+    "quantity": 3,
+    "demand": "optional"
+  }, {
+    "id": "wood",
+    "quantity": 3,
+    "demand": "wildcard"
+  }],
+  "type": "component"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "A Basic Small Woodland Creek",
+  "tradeskill": "Stonemasonry",
+  "assembly_stat": "Stonemasonry",
+  "tradeskill_group": "Geomancy",
+  "difficulty": 25,
+  "craft_time": 0,
+  "description": "Creates a Basic Rank 1 Woodland Creek Parcel using Earth and a Farm Parcel.",
+  "requires": [{
+    "id": "earth",
+    "quantity": 5,
+    "demand": "required"
+  }, {
+    "id": "a-farm-parcel",
+    "quantity": 1,
+    "demand": "required"
+  }],
+  "type": "component"
+}

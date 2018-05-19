@@ -1,0 +1,15 @@
+{
+  "name": "A Basic Small Farm Parcel",
+  "tradeskill": "Stonemasonry",
+  "assembly_stat": "Stonemasonry",
+  "tradeskill_group": "Geomancy",
+  "difficulty": 25,
+  "craft_time": 0,
+  "description": "Creates a Basic Rank 1 Farm Parcel.",
+  "requires": [{
+    "id": "earth",
+    "quantity": 10,
+    "demand": "required"
+  }],
+  "type": "component"
+}

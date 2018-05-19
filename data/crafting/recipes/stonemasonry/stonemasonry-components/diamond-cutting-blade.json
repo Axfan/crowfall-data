@@ -1,0 +1,19 @@
+{
+  "name": "Diamond Cutting Blade",
+  "tradeskill": "Stonemasonry",
+  "assembly_stat": "Stonemasonry",
+  "tradeskill_group": "Stonemasonry Components",
+  "difficulty": 20,
+  "craft_time": 0,
+  "description": "Creates a Cutting Blade strong enough to cut gems.",
+  "requires": [{
+    "id": "ore",
+    "quantity": 3,
+    "demand": "required"
+  }, {
+    "id": "cutting-grit",
+    "quantity": 1,
+    "demand": "required"
+  }],
+  "type": "component"
+}

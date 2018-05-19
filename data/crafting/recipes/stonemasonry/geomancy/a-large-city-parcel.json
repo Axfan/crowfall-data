@@ -1,0 +1,23 @@
+{
+  "name": "A Large City Parcel",
+  "tradeskill": "Stonemasonry",
+  "assembly_stat": "Stonemasonry",
+  "tradeskill_group": "Geomancy",
+  "difficulty": 25,
+  "craft_time": 0,
+  "description": "Creates a Large Rank 1 City Parcel using Earth, a Town Parcel, and a Hamlet Parcel.",
+  "requires": [{
+    "id": "a-town-parcel",
+    "quantity": 1,
+    "demand": "required"
+  }, {
+    "id": "a-hamlet-parcel",
+    "quantity": 1,
+    "demand": "required"
+  }, {
+    "id": "earth",
+    "quantity": 5,
+    "demand": "required"
+  }],
+  "type": "component"
+}

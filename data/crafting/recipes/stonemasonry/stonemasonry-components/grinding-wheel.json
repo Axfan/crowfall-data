@@ -1,0 +1,19 @@
+{
+  "name": "Grinding Wheel",
+  "tradeskill": "Stonemasonry",
+  "assembly_stat": "Stonemasonry",
+  "tradeskill_group": "Stonemasonry Components",
+  "difficulty": 20,
+  "craft_time": 0,
+  "description": "Creates a Grinding Wheel used to facet gems.",
+  "requires": [{
+    "id": "stone",
+    "quantity": 3,
+    "demand": "required"
+  }, {
+    "id": "stone",
+    "quantity": 3,
+    "demand": "required"
+  }],
+  "type": "component"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Polishing Paste",
+  "tradeskill": "Stonemasonry",
+  "assembly_stat": "Stonemasonry",
+  "tradeskill_group": "Stonemasonry Components",
+  "difficulty": 20,
+  "craft_time": 0,
+  "description": "Creates a Polishing Paste used to polish gems.",
+  "requires": [{
+    "id": "powdered-stone",
+    "quantity": 2,
+    "demand": "required"
+  }, {
+    "id": "water-flask",
+    "quantity": 1,
+    "demand": "additive"
+  }],
+  "type": "component"
+}

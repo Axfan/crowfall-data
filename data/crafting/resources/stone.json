@@ -1,0 +1,5 @@
+{
+  "name": "Stone",
+  "type": "resource",
+  "variants": ["Granite", "Limestone", "Marble", "Slate", "Travertine"]
+}
